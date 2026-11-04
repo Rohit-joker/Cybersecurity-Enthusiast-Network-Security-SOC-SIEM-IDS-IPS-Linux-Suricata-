@@ -1,0 +1,2 @@
+# Cybersecurity-Enthusiast-Network-Security-SOC-SIEM-IDS-IPS-Linux-Suricata-
+Computer Science Engineering graduate passionate about Cybersecurity, Network Security, and Security Operations.  Hands-on experience with Suricata IDS, Nmap, Linux, Grafana, Loki, and Grafana Alloy.  Currently developing practical cybersecurity projects and strengthening my skills in SOC operations, SIEM, network monitoring, and cyber forensics.
