@@ -49,17 +49,15 @@ See the `screenshots/` directory for implementation evidence and dashboard scree
 
 ## 📚 Documentation
 
-[View Complete Project Documentation](documentation/Suricata_Project_Documentation.pdf)
+[View Complete Project Documentation]([documentation/Suricata_Project_Documentation.pdf](https://github.com/Rohit-joker/Cybersecurity-Enthusiast-Network-Security-SOC-SIEM-IDS-IPS-Linux-Suricata-)
 
 ## 📂 Repository Structure
 
 ```text
 ├── documentation/
 ├── architecture/
-├── screenshots/
 ├── configuration/
-├── scripts/
-├── results/
+├── LICENSE/
 └── README.md
 ```
 
@@ -84,4 +82,4 @@ All security testing was performed against authorized lab systems.
 
 Cybersecurity | Network Security | SOC & Security Monitoring
 
-[GitHub Profile](https://github.com/YOUR_USERNAME)
+[GitHub Profile](https://github.com/Rohit-joker)
